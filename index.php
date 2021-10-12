@@ -12,6 +12,7 @@
   </head>
   <body>
     <h1>Hello, world!</h1>
+    <h3>Prueba de página en GitHub</h3>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
